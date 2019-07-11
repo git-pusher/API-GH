@@ -1,6 +1,6 @@
 # LABORATORIO GRACE HOOPER 
 
-##CRUD
+## CRUD
 * Cita
 * Médico
 * Paciente
